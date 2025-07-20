@@ -1,0 +1,5 @@
+Como executar Node.js:
+node <caminho>/<arquivo>
+node --watch caminho/para/arquivo.js  # executa automaticamente o arquivo ao salvar alterações
+Para executar automaticamente ao salvar:
+node --watch <caminho>/<arquivo>
