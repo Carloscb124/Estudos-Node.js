@@ -1,12 +1,8 @@
 Como executar Node.js:
+npm -y = sim para tudo
+node + caminho executa o node
 node <caminho>/<arquivo>
 node --watch caminho/para/arquivo.js  # executa automaticamente o arquivo ao salvar alterações
 Para executar automaticamente ao salvar:
 node --watch <caminho>/<arquivo>
 
-Lista de comandos Terminal:
-Del * + caminho apaga tudo
-ls abre as pastas 
-cd .. volta caminho
-mkdir constroi uma pasta 
-code + caminho abre o vscode mais a pasta
