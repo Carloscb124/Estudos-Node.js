@@ -72,6 +72,5 @@ node index.js
 ## 👨‍💻 Autor
 
 **Carlos Eduardo**  
-Estudante da stack Node.js e apaixonado por automação e boas práticas em desenvolvimento backend.
 
 [🔗 GitHub](https://github.com/Carloscb124)
